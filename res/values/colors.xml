@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="gray">#a3a3a3</color>
+    <color name="yellow">#ffff00</color>
+    
+  <color name="transparent">#00000000</color>
+  <color name="transparent_half">#88000000</color>
+  <color name="fullAlpha">#00000000</color>
+  
+  
+  <color name="background_blue">#297dee</color>
+  <color name="background_gray">#eaeaea</color>
+  <color name="background_light_gray">#fefefe</color>
+  <color name="text_gray">#979797</color>
+  <color name="text_black">#4e4e4e</color>
+  <color name="text_blue">#298eee</color>
+  <color name="text_red">#fe631f</color>
+  <color name="text_green_blue">#00ba93</color>
+  
+</resources>

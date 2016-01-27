@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/light_icon_choose" android:state_selected="true"></item>
+	<item android:drawable="@drawable/light_icon_choose2" android:state_selected="false"></item>
+</selector>
+<!-- From: file:/F:/gizwits/app/dantang-Gizwits-SmartBuld_Android-master/Gizwits-SmartBuld_Android/res/drawable/selector_mode_choose.xml -->
