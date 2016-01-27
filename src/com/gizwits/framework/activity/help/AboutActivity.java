@@ -90,7 +90,6 @@ public class AboutActivity extends BaseActivity {
 			float mHight = 0;
 			float mWidth = 0;
 			float scal = 0;
-
 			mWidth = width;
 			scal = width / mBitmap.getWidth();
 			mHight = scal * mBitmap.getHeight();
